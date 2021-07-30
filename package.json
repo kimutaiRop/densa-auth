@@ -1,6 +1,6 @@
 {
   "name": "densa-auth",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "densa remote comp auth",
   "main": "index.js",
   "scripts": {
