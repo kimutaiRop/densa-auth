@@ -149,3 +149,4 @@ let LoginComponent = zoid.create({
 
 });
 
+export default LoginComponent
