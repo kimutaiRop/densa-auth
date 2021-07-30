@@ -18,7 +18,7 @@ const CLASS = {
     PRERENDER_FRAME: "prerender-frame"
 };
 
-LoginComponent = zoid.create({
+let LoginComponent = zoid.create({
     tag: 'my-login-component',
     url: DENSA_AUTH,
     props: {

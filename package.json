@@ -17,7 +17,6 @@
   "author": "url: DENSA_AUTH,",
   "license": "ISC",
   "dependencies": {
-    "densa-auth": "^1.0.0",
     "jsx-pragmatic": "^2.0.20",
     "zoid": "^9.0.71"
   }
