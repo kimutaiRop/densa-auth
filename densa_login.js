@@ -19,12 +19,12 @@ const CLASS = {
 };
 
 let LoginComponent = zoid.create({
-    tag: 'my-login-component',
+    tag: 'densa-login',
     url: DENSA_AUTH,
     props: {
         onLogin: {
             type: 'function',
-            required: true
+            required: false
         },
         clientId: {
             type: 'string',
